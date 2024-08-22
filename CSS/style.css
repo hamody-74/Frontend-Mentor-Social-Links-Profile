@@ -10,6 +10,7 @@ body {
 }
 
 main {
+  height: 100vh;
   padding: 1em;
   display: flex;
   justify-content: center;
